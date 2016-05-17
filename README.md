@@ -5,4 +5,4 @@ Google Spaces about Computer Science
 
 * [C](https://goo.gl/spaces/XWgEzYuX8VXsxcdu6)
 * [C++](https://goo.gl/spaces/LR7TyJrMNx1vh1sSA)
-
+* [Rust](https://goo.gl/spaces/v4tMgqQHm5qpwmZLA)
